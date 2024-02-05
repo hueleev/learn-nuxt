@@ -73,3 +73,13 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## build
+
+```
+npm run generate
+```
+
+netlify 로 배포
+
+[URL](https://master--glowing-manatee-218fb4.netlify.app/)
