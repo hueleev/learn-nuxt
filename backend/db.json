@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Refined Fresh Chicken",
+      "price": "209.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616137592/noticon/mllppshbmymxfgbm1jod.gif"
+    },
+    {
+      "id": 1,
+      "name": "Intelligent Metal Mouse",
+      "price": "84.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1637422104/noticon/tydmzggs2djrjwcqvkuq.gif"
+    },
+    {
+      "id": 2,
+      "name": "Handcrafted Frozen Pizza",
+      "price": "315.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1604312756/noticon/lszixeliofxavafeg4ld.png"
+    },
+    {
+      "id": 3,
+      "name": "Practical Metal Gloves",
+      "price": "702.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1649409497/noticon/vfoeqsmp8vwm8bibgsfq.gif"
+    },
+    {
+      "id": 4,
+      "name": "Unbranded Rubber Chair",
+      "price": "458.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573185009/noticon/yuen59reofeivvdhooi3.gif"
+    },
+    {
+      "id": 5,
+      "name": "Small Rubber Salad",
+      "price": "455.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1572452541/noticon/unrjtbtnog7uoiiejmme.gif"
+    },
+    {
+      "id": 6,
+      "name": "Handmade Granite Mouse",
+      "price": "591.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603679648/noticon/nzqrvl0zwugomhzqmmfm.gif"
+    },
+    {
+      "id": 7,
+      "name": "Awesome Concrete Shirt",
+      "price": "165.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603852458/noticon/vq2qnfpgny4yepkcztc1.gif"
+    },
+    {
+      "id": 8,
+      "name": "Sleek Steel Towels",
+      "price": "607.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1609936268/noticon/qwztn9hwookwz0o2iutk.png"
+    },
+    {
+      "id": 9,
+      "name": "Handcrafted Plastic Computer",
+      "price": "289.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613639147/noticon/woixiik7mhk8ahqc0g6m.png"
+    },
+    {
+      "id": 10,
+      "name": "Small Fresh Soap",
+      "price": "777.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603261622/noticon/hn81l3ow7lkmtk1wpmtz.gif"
+    },
+    {
+      "id": 11,
+      "name": "Practical Granite Chicken",
+      "price": "518.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1687571586/noticon/ov1wkggjcf5hqwysxgbv.gif"
+    },
+    {
+      "id": 12,
+      "name": "Awesome Metal Hat",
+      "price": "376.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580644310/noticon/ginkuzsajbltahqmd45f.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Refined Soft Towels",
+      "price": "723.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1706280720/noticon/l9g6hkjrkw17ne0apiwz.gif"
+    },
+    {
+      "id": 14,
+      "name": "Ergonomic Concrete Cheese",
+      "price": "339.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif"
+    },
+    {
+      "id": 15,
+      "name": "Generic Soft Sausages",
+      "price": "669.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567661387/noticon/zujqqm5y9jxcculmf2fe.gif"
+    },
+    {
+      "id": 16,
+      "name": "Incredible Metal Ball",
+      "price": "697.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1689341794/noticon/kc9gvekv5zwdtmxwo6la.gif"
+    },
+    {
+      "id": 17,
+      "name": "Sleek Soft Shirt",
+      "price": "654.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1670460017/noticon/twbve8i8ndmjutyyw70d.gif"
+    },
+    {
+      "id": 18,
+      "name": "Rustic Plastic Fish",
+      "price": "133.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613713282/noticon/mais4jctqzzzswxxqnby.gif"
+    },
+    {
+      "id": 19,
+      "name": "Gorgeous Cotton Soap",
+      "price": "38.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1697590265/noticon/eywvyiyd0w5fvwwtunmo.gif"
+    },
+    {
+      "id": 20,
+      "name": "Incredible Concrete Chair",
+      "price": "569.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1647770395/noticon/aezp3pbnsilik1jyu6w9.gif"
+    },
+    {
+      "id": 21,
+      "name": "Handcrafted Soft Pizza",
+      "price": "277.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1638101364/noticon/fhxax3msswcqkbanxzhc.gif"
+    },
+    {
+      "id": 22,
+      "name": "Intelligent Granite Chicken",
+      "price": "509.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1689341711/noticon/jsfkmqmytc8khqlwixcw.gif"
+    },
+    {
+      "id": 23,
+      "name": "Handcrafted Rubber Ball",
+      "price": "487.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1672145213/noticon/kmt4v3uiz5s6tr1mrga5.gif"
+    },
+    {
+      "id": 24,
+      "name": "Practical Frozen Pants",
+      "price": "607.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629971830/noticon/obfbjnpbkoxz79bkvugi.png"
+    },
+    {
+      "id": 25,
+      "name": "Sleek Plastic Mouse",
+      "price": "909.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1686669761/noticon/jkptufmxqwefkrpdvobi.gif"
+    },
+    {
+      "id": 26,
+      "name": "Incredible Frozen Gloves",
+      "price": "172.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695648985/noticon/nn3jjqmqgeaapt2jtqit.gif"
+    },
+    {
+      "id": 27,
+      "name": "Intelligent Concrete Salad",
+      "price": "501.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1633415896/noticon/ismfq4vo01kwtwhsoamk.gif"
+    },
+    {
+      "id": 28,
+      "name": "Fantastic Metal Soap",
+      "price": "75.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695649033/noticon/z2hbvnnzecnzzmrrlwqo.gif"
+    },
+    {
+      "id": 29,
+      "name": "Intelligent Cotton Shirt",
+      "price": "130.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695677124/noticon/tbuj4zunum6mowduxj2j.gif"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "name": "Intelligent Metal Mouse",
+      "price": "84.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695649062/noticon/mfhn2prakx9vnfsp7mad.gif"
+    },
+    {
+      "id": 7,
+      "name": "Awesome Concrete Shirt",
+      "price": "165.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1676993073/noticon/pefmcfk8t9n4srixyow4.gif"
+    },
+    {
+      "id": 8,
+      "name": "Refined Fresh Chicken",
+      "price": "209.00",
+      "imageUrl": "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616137592/noticon/mllppshbmymxfgbm1jod.gif"
+    }
+  ]
+}
